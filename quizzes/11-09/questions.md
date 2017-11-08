@@ -1,6 +1,6 @@
 ### General Knowledge
-1. In what year was WhatsApp launched? *2009*
-2. Rocket, Drax and Gamora are characters in what movie series? *Guardians of the Galaxy*
+1. Rocket, Drax and Gamora are characters in what movie series? *Guardians of the Galaxy*
+2. In what year was WhatsApp launched? *2009*
 3. Io, Europa, Ganymedes and Callisto are satellites of what planet? *Jupiter*
 4. What city was once known as New Amsterdam? *New York*
 5. What Shakespeare play has the famous "To be or not to be" monologue? *Hamlet*      

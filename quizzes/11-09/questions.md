@@ -1,57 +1,57 @@
 ### General Knowledge
 ---
-1. ‘Aquiline’ is an adjective which describes something as being like which creature? *Eagle*
-2. What, precisely, is Ornithophily? *Bird pollination/the pollination of flowering plants by birds*
-3. New Orleans owns an airport which is named after which famous jazz musician? *Louis Armstrong*
-4. What type of computer file is a FLAC file: image, audio or text? *Audio* (Free Lossless Audio Codec)
-5. Which type of technology was named after Danish-Norwegian king Harald Blátönn? *Bluetooth*
-        _BONUS_: When was the name officially adopted/technology launched? (1998/9)
-6. The ‘Avesta’ is the primary set of texts of which religion? *Zoroastrianism*
-7. From which fruit is the drink Perry made? *Pears*
+1. In what year was Whatsapp founded? *2009*
+2. Rocket, Drax and Gamora are characters in what movie series? *Guardians of the Galaxy*
+3. What chemical element is the second noble gas in the periodic table? *Neon*
+4. What city was once known as New Amsterdam? *New York*
+5. What Shakespeare play has the famous "To be or not to be" monologue? *Hamlet*      
+      _BONUS_: In what country does it take place? *Denmark*
+6. Io, Ganymedes and Calliope are satellites of what planet? *Jupiter*
+7. What number has the same amount of letters as its value? *Four*
+
 8. Which cocktail is traditionally made with cognac, orange liqueur and lemon juice? *Sidecar*
 9. Where on the body would you wear a mantilla? *Over the head* (and shoulders – a type of silk scarf, mostly worn in Spain)
-10. What is the collective noun for a group of buzzards? *Wake*
+
+10. What is the name of the groove between your nose and upper lip? *Philtrum*
 
 ### Sports
 ---
-11. What country was host to the first ever FIFA Football World Cup? *Uruguay (1930)*
-12. What sport uses a shuttlecock? *Badminton*
-13. What is the only combat sport that doesn’t use weight classes? *Fencing*
-14. In Formula 1, drivers seeing a blue flag should do what? *Make way for cars approaching behind*
-15. In ice hockey, how many players are on the field for each team? *6*
-16. In the NBA, how far is the 3-point line from the basket? *7.24m (23 feet 9 inches)*
-    _BONUS_ In what year did the NBA see its first successful 3-point shot? *1979*
-17. In golf, how often is the Ryder Cup played? *Every 2 years*
-18. In what year did Pep Guardiola debut for the FC Barcelona senior football team? *1990*
-19. What country has competed in the most summer olympics (16) without winning any medal? *Liechtenstein*
-20. What is the longest recorded point in tennis history? 16, 21, *29* or 32 minutes?
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20. 
 
 ### Music
---- Reverse
-21. Human - The Killers
-22. R.E.M - Losing my religion
-23. Cranberries - Zombie
---- Spoken
-24. Radiohead - Creep
-25. Destiny's Child - Say My Name
-26. Nirvana - Smells like teen spirit
---- Intros
-27. The Verve - Bittersweet Symphony
-28. TLC - Waterfalls
-29. Backstreet Boys - I Want It That Way
-30. Jamiroquai - Virtual Insanity
-*Bonus*: What's the theme? 90s music
+---
+#### Reverse
+21. Daft Punk - Get Lucky
+22. Smash Mouth - All Star
+23. White Stripes - Blue Orchid
+24. Huey Lewis and the News - The Power of Love
+25. Radiohead - Karma Police
+#### Spoken
+26. Coldplay - Clocks
+27. The Cardigans - Lovefool
+28. The Black Keys - Lonely Boy
+29. Spice Girls - Say You'll Be There
+30. Michael Jackson - Don't stop til you get enough
 ---
 
 ### Faces
 ---
-31. Carlos Santana
-32. Lena Headey
-33. Stephen King
-34. Alicia Keys
-35. Carles Puigdemont
-36. Bill Gates
-37. Winona Ryder (_Bonus_: Name of her character on Stranger Things)
-38. Lady Gaga
-39. Robert Downey Jr.
-40. Angela Merkel
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.

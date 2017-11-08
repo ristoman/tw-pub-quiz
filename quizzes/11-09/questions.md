@@ -1,16 +1,14 @@
 ### General Knowledge
-1. In what year was Whatsapp founded? *2009*
+1. In what year was WhatsApp launched? *2009*
 2. Rocket, Drax and Gamora are characters in what movie series? *Guardians of the Galaxy*
-3. What chemical element is the second noble gas in the periodic table? *Neon*
+3. Io, Europa, Ganymedes and Callisto are satellites of what planet? *Jupiter*
 4. What city was once known as New Amsterdam? *New York*
 5. What Shakespeare play has the famous "To be or not to be" monologue? *Hamlet*      
       _BONUS_: In what country does it take place? *Denmark*
-6. Io, Ganymedes and Calliope are satellites of what planet? *Jupiter*
-7. What number has the same amount of letters as its value? *Four*
-
-8. Which cocktail is traditionally made with cognac, orange liqueur and lemon juice? *Sidecar*
-9. Where on the body would you wear a mantilla? *Over the head* (and shoulders – a type of silk scarf, mostly worn in Spain)
-
+6. What number has the same amount of letters as its value? *Four*
+7. Green Zebra, Campari and Moneymaker are types of what plant? *Tomato*
+8. What is the weight of a cubic meter of water? 1 ton (1000 Kg)
+9. What chemical element appears as the second noble gas in the periodic table? *Neon*
 10. What is the name of the groove between your nose and upper lip? *Philtrum*
 ---
 ### Sports

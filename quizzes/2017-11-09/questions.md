@@ -39,13 +39,13 @@
 30. Michael Jackson - Don't stop til you get enough
 ---
 ### Faces
-31.
-32.
-33.
-34.
-35.
-36.
-37.
-38.
-39.
-40.
+31. Edward Norton
+32. Elizabeth Moss
+33. Frida Kahlo
+34. Mick Jagger
+35. Rupert Murdoch
+36. Sheryl Sandberg
+37. Christian Bale
+38. Taylor Swift
+39. Drake
+40. Huannah

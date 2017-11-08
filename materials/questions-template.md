@@ -1,5 +1,4 @@
 ### General Knowledge
----
 1. ‘Aquiline’ is an adjective which describes something as being like which creature? *Eagle*
 2. What, precisely, is Ornithophily? *Bird pollination/the pollination of flowering plants by birds*
 3. New Orleans owns an airport which is named after which famous jazz musician? *Louis Armstrong*
@@ -11,9 +10,9 @@
 8. Which cocktail is traditionally made with cognac, orange liqueur and lemon juice? *Sidecar*
 9. Where on the body would you wear a mantilla? *Over the head* (and shoulders – a type of silk scarf, mostly worn in Spain)
 10. What is the collective noun for a group of buzzards? *Wake*
+---
 
 ### Sports
----
 11. What country was host to the first ever FIFA Football World Cup? *Uruguay (1930)*
 12. What sport uses a shuttlecock? *Badminton*
 13. What is the only combat sport that doesn’t use weight classes? *Fencing*
@@ -25,17 +24,17 @@
 18. In what year did Pep Guardiola debut for the FC Barcelona senior football team? *1990*
 19. What country has competed in the most summer olympics (16) without winning any medal? *Liechtenstein*
 20. What is the longest recorded point in tennis history? 16, 21, *29* or 32 minutes?
-
+---
 ### Music
---- Reverse
+#### Reverse
 21. MC Hammer - U Can't Touch This
 22. R.E.M - Losing my religion
 23. Cranberries - Zombie
---- Spoken
+#### Spoken
 24. Radiohead - Creep
 25. Destiny's Child - Say My Name
 26. Nirvana - Smells like teen spirit
---- Intros
+#### Intros
 27. The Verve - Bittersweet Symphony
 28. TLC - Waterfalls
 29. Backstreet Boys - I Want It That Way
@@ -44,7 +43,6 @@
 ---
 
 ### Faces
----
 31. Carlos Santana
 32. Lena Headey
 33. Stephen King

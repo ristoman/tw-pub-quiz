@@ -12,16 +12,17 @@
 10. What is the name of the groove between your nose and upper lip? *Philtrum*
 ---
 ### Sports
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
+11. Who has won more Wimbledon titles, Rafael Nadal or Novak Djokovic? *Djokovic*
+12. Who fought Mohammed Ali In The Rumble In The Jungle in 1974? *George Foreman*
+13. Which city has the most football clubs competing in its country's top division; Moscow, Rome, Tokyo, London? *London - five clubs in the premier league*
+14. Which ice hockey player is known as 'The Great One'? *Wayne Gretzky*
+15. Which country has the world's largest bowling alley? *Japan*
+      _BONUS_: How many lanes does it have? *116*
+16. Which city was Lionel Messi born in; Rosario, Buenos Aires, Barcelona, Cordoba? *Rosario*
+17. How long did the longest ever game of cricket last? *14 days*
+18. Which one of these sports is not going to be introduced at the next Olympic Games in Tokyo in 2020: Squash, Surfing, Softball, Skateboarding? *Squash*
+19. A 'raw run' is a term used within which sporting community? *Longboarding/skateboarding*
+20. Which nation is the most successful in Badminton history having won the Thomas Cup nine times; a) United States b) China c) Japan? *China*
 ---
 ### Music
 #### Reverse

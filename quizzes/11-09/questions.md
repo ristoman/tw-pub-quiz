@@ -13,9 +13,8 @@
 9. Where on the body would you wear a mantilla? *Over the head* (and shoulders – a type of silk scarf, mostly worn in Spain)
 
 10. What is the name of the groove between your nose and upper lip? *Philtrum*
-
-### Sports
 ---
+### Sports
 11.
 12.
 13.
@@ -25,10 +24,9 @@
 17.
 18.
 19.
-20. 
-
-### Music
+20.
 ---
+### Music
 #### Reverse
 21. Daft Punk - Get Lucky
 22. Smash Mouth - All Star
@@ -42,9 +40,7 @@
 29. Spice Girls - Say You'll Be There
 30. Michael Jackson - Don't stop til you get enough
 ---
-
 ### Faces
----
 31.
 32.
 33.

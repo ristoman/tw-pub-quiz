@@ -1,4 +1,4 @@
-# tw-pub-quiz
+# ThoughtWorks Pub Quiz
 A repo for Pub Quiz related stuff
 
 ## Materials

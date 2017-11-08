@@ -1,5 +1,4 @@
 ### General Knowledge
----
 1. In what year was Whatsapp founded? *2009*
 2. Rocket, Drax and Gamora are characters in what movie series? *Guardians of the Galaxy*
 3. What chemical element is the second noble gas in the periodic table? *Neon*

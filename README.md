@@ -1,8 +1,10 @@
-# ThoughtWorks Pub Quiz
-A repo for Pub Quiz related stuff
-
-## Materials
-You can find some templates here. Mostly the markdown file for questions, and the Sketch file for the answer sheet.
-
-## Quizzes
-Repositories for past pub quizzes. Use them for reference or to reuse them once enough time has past :) each folder is named after the date of the quiz.
+U2FsdGVkX18fsHbCKb+ugiFMzs6kNFUY2Aot7RDPJjVsLqY1EaLNp0CBUwOiKU1G
+U08Bn8rZw4+doRTyFUMCKnCMw3MQu8hJrvY4aMImxqPysIPmTFERyV8eThXQ+p5+
+7D+B8rXbyuCljBYp5Ik5KV1S2O2/+h0bymyKfEo7sdDcTkyBWeyvpuDSHzGenRUP
+mNb6IXlLBuli4V4XlYug+RVNie2I9Q+wIGJZtgro8MjMwjKGrTGAldke8Y/i+OBw
+eiFiXGWhfoUxZ7V8NMxR/rqDU0UR/zwP4GJNHvSuYUat6hWsKNU8th4pE+p87DHh
+1XQ4txolywzIoHhjHpr9MQqPYAy9XDGTie3cEMVNAZG8cp9mH7iI0Rx4OG4YidPV
+zCD0tA3uoWPRpjDUUNQnKviMIaUw7dwKqsPg7rurOHhunaiC3IIpjtn+OpixKVPE
+eB/ayr3im8edN++d8I7GCRY+Hy5DSkFjyrkqiVZrJ7My8jt3NcjS4De4bmyC0i5a
+Q3bi22DWAnO0qPUtWtcaKs+TJzQ6i9Au1RE0WQZQfYLSpuR7YCC/bGYoYzsa02ka
+hO7w8353i/yRR1QwbjNtLA==

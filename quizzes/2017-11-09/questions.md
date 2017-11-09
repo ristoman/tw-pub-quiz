@@ -1,4 +1,4 @@
-### General Knowledge
+## General Knowledge
 1. Rocket, Drax and Gamora are characters in what movie series? *Guardians of the Galaxy*
 2. In what year was WhatsApp launched? *2009*
 3. Io, Europa, Ganymedes and Callisto are satellites of what planet? *Jupiter*
@@ -11,7 +11,7 @@
 9. What chemical element appears as the second noble gas in the periodic table? *Neon*
 10. What is the name of the groove between your nose and upper lip? *Philtrum*
 ---
-### Sports
+## Sports
 11. Who has won more Wimbledon titles, Rafael Nadal or Novak Djokovic? *Djokovic*
 12. Who fought Mohammed Ali In The Rumble In The Jungle in 1974? *George Foreman*
 13. Which city has the most football clubs competing in its country's top division; Moscow, Rome, Tokyo, London? *London - five clubs in the premier league*
@@ -24,21 +24,21 @@
 19. A 'raw run' is a term used within which sporting community? *Longboarding/skateboarding*
 20. Which nation is the most successful in Badminton history having won the Thomas Cup nine times; a) United States b) China c) Japan? *China*
 ---
-### Music
-#### Reverse
+## Music
+### Reverse
 21. Daft Punk - Get Lucky
 22. Smash Mouth - All Star
 23. White Stripes - Blue Orchid
 24. Huey Lewis and the News - The Power of Love
 25. Radiohead - Karma Police
-#### Spoken
+### Spoken
 26. Coldplay - Clocks
 27. The Cardigans - Lovefool
 28. The Black Keys - Lonely Boy
 29. Spice Girls - Say You'll Be There
 30. Michael Jackson - Don't stop til you get enough
 ---
-### Faces
+## Faces
 31. Edward Norton
 32. Elizabeth Moss
 33. Frida Kahlo

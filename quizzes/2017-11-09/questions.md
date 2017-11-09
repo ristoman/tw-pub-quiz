@@ -1,51 +1,52 @@
-## General Knowledge
-1. Rocket, Drax and Gamora are characters in what movie series? *Guardians of the Galaxy*
-2. In what year was WhatsApp launched? *2009*
-3. Io, Europa, Ganymedes and Callisto are satellites of what planet? *Jupiter*
-4. What city was once known as New Amsterdam? *New York*
-5. What Shakespeare play has the famous "To be or not to be" monologue? *Hamlet*      
-      _BONUS_: In what country does it take place? *Denmark*
-6. What number has the same amount of letters as its value? *Four*
-7. Green Zebra, Campari and Moneymaker are types of what plant? *Tomato*
-8. What is the weight of a cubic meter of water? 1 ton (1000 Kg)
-9. What chemical element appears as the second noble gas in the periodic table? *Neon*
-10. What is the name of the groove between your nose and upper lip? *Philtrum*
----
-## Sports
-11. Who has won more Wimbledon titles, Rafael Nadal or Novak Djokovic? *Djokovic*
-12. Who fought Mohammed Ali In The Rumble In The Jungle in 1974? *George Foreman*
-13. Which city has the most football clubs competing in its country's top division; Moscow, Rome, Tokyo, London? *London - five clubs in the premier league*
-14. Which ice hockey player is known as 'The Great One'? *Wayne Gretzky*
-15. Which country has the world's largest bowling alley? *Japan*
-      _BONUS_: How many lanes does it have? *116*
-16. Which city was Lionel Messi born in; Rosario, Buenos Aires, Barcelona, Cordoba? *Rosario*
-17. How long did the longest ever game of cricket last? *14 days*
-18. Which one of these sports is not going to be introduced at the next Olympic Games in Tokyo in 2020: Squash, Surfing, Softball, Skateboarding? *Squash*
-19. A 'raw run' is a term used within which sporting community? *Longboarding/skateboarding*
-20. Which nation is the most successful in Badminton history having won the Thomas Cup nine times; a) United States b) China c) Japan? *China*
----
-## Music
-### Reverse
-21. Daft Punk - Get Lucky
-22. Smash Mouth - All Star
-23. White Stripes - Blue Orchid
-24. Huey Lewis and the News - The Power of Love
-25. Radiohead - Karma Police
-### Spoken
-26. Coldplay - Clocks
-27. The Cardigans - Lovefool
-28. The Black Keys - Lonely Boy
-29. Spice Girls - Say You'll Be There
-30. Michael Jackson - Don't stop til you get enough
----
-## Faces
-31. Edward Norton
-32. Elizabeth Moss
-33. Frida Kahlo
-34. Mick Jagger
-35. Rupert Murdoch
-36. Sheryl Sandberg
-37. Christian Bale
-38. Taylor Swift
-39. Drake
-40. Huannah
+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
+dnqNJLii0zOre+BSgTfnGg==

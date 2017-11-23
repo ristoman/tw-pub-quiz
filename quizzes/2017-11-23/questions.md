@@ -1,49 +1,37 @@
-## General Knowledge
-1. Which kind of flowers were once exchanged as a form of currency? *Tulips.*
-2. Which actress has won the most Oscars? *Katharine Hepburn, with 4 Oscars and 12 nominations.*
-3. Which is the only American state to begin with the letter 'p'? *Pennsylvania.*
-4. What is the biggest selling music single of all time? *White Christmas, by Bing Crosby*
-5. Where is the smallest bone in the body? *Ear*
-6. What did the Montgolfier brothers invent? *The hot air balloon*
-07.
-08.
-09.
-10.
-
-## Sports
-11. What country is the only one to have played in every World Cup so far? *Brazil*
-12. What colours are the five Olympic rings? *Blue, Black, Red, Green, Yellow*
-13. Raging Bull, the classic 1980 movie is about which real life boxer? *Jake LaMotta*
-14. Name the only major team sport in the USA with no game clock. *Baseball*
-15. There are two NBA players that are brothers and were born in Barcelona. What are their names? *Pau and Marc Gasol*
-16. What is the minute of the fastest own goal in World Cup history? 1st, *3rd*, 7th, 9th (in 2014)
-17. In which sport is the Davis cup awarded? *Tennis*
-18.Which colour is an archery target centre? *Yellow*
-19. What is the highest possible score with three darts? *180*
-20. How many holes are there in a standard ten pin bowling ball? *3*
-
-## Music
-### Reverse
-21. The Beatles - Ticket to Ride
-22. Dire Straits - Money for nothing
-23. Journey - Don't Stop believing
-24. The Police - Walking on the moon
-25. The Doors - Light my fire
-### Spoken
-26. Cyndi Lauper - Girls just want to have fun
-27. Pink Floyd - Another Brick in the wall
-28. Madonna - La Isla Bonita
-29. David Bowie - Space Oddity
-30. Gloria Gaynor - I will survive
-
-## Faces
-31.
-32.
-33.
-34.
-35.
-36.
-37.
-38.
-39.
-40.
+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

@@ -38,13 +38,13 @@
 30. Gloria Gaynor - I will survive
 
 ## Faces
-31.
-32.
-33.
-34.
-35.
-36.
-37.
-38.
-39.
-40.
+31. Uma Thurman
+32. Kobe Bryant
+33. Ben Affleck
+34. Susan Sarandon
+35. Richard Branson
+36. Amy Winehouse
+37. Michelle Obama
+38. George Orwell
+39. Chad Smith
+40. Elon Musk

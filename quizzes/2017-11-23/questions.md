@@ -1,44 +1,50 @@
-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
+## General Knowledge
+1. Which kind of flowers were once exchanged as a form of currency? *Tulips.*
+2. in which country was IKEA founded? *Sweden*
+3. In what month is Australian day celebrated? *January.*
+4. What is the biggest selling music single of all time? *White Christmas, by Bing Crosby*
+5. Where is the smallest bone in the body? *Ear*
+6. What did the Montgolfier brothers invent? *The hot air balloon*
+07. The International Space Station has been continuously occupied since it was completed in which year? *2000*
+08. Julian Assange has sought refuge at which country's London embassy since June 2012? *Ecuador*
+09. Cerveza Quilmes is a beer that originates from which country? *Argentina*
+10. "You had me at hello" is a famous movie line from which 1996 Tom Cruise film? *Jerry Mcguire*
+  *Bonus* Who says it? *Dorothy Boyd/Renée Zellweger*
+
+## Sports
+11. What country is the only one to have played in every World Cup so far? *Brazil*
+12. What colours are the five Olympic rings? *Blue, Black, Red, Green, Yellow*
+13. Raging Bull, the classic 1980 movie is about which real life boxer? *Jake LaMotta*
+14. Name the only major team sport in the USA with no game clock. *Baseball*
+15. There are two NBA players that are brothers and were born in Barcelona. What are their names? *Pau and Marc Gasol*
+16. What is the minute of the fastest own goal in World Cup history? 1st, *3rd*, 7th, 9th (in 2014)
+17. In which sport is the Davis cup awarded? *Tennis*
+18. Which colour is an archery target centre? *Yellow*
+19. What is the highest possible score with three darts? *180*
+20. How many holes are there in a standard ten pin bowling ball? *3*
+
+## Music
+### Reverse
+21. The Beatles - Ticket to Ride
+22. Dire Straits - Money for nothing
+23. Journey - Don't Stop believing
+24. The Police - Walking on the moon
+25. The Doors - Light my fire
+### Spoken
+26. Cyndi Lauper - Girls just want to have fun
+27. Pink Floyd - Another Brick in the wall
+28. Madonna - La Isla Bonita
+29. David Bowie - Space Oddity
+30. Gloria Gaynor - I will survive
+
+## Faces
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
